@@ -1,2 +1,2 @@
 # Calculator
-Making a scientific calculator via C# forms .net
+Making a scientific calculator via C# .NET WindowsForms
